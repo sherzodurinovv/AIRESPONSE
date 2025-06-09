@@ -72,12 +72,12 @@ src/
 
 ```
 
-## 💗Developed by Kosar Akbarshah
+## 💗Developed by Sherzod Urinov
 
 ## 🕰Created - 2025-01-03
 
 ## 👩‍💻 Role - Frontend 
 
-## 💭 How to reach me : Kosar Akbarshah [linkedin](https://www.linkedin.com/in/kosar-akbarshah-22102b1b6/)
+## 💭 How to reach me : Sherzod Urinov [linkedin](https://www.linkedin.com/in/sherzodurinov/)
 
 
